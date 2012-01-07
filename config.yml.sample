@@ -1,0 +1,5 @@
+# vim: ft=yaml ts=2 sw=2 et
+host: "127.0.0.1"
+port: 6667
+nick: "dankogai"
+pass: "kogaidan"
